@@ -2,6 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/3513a214-5a7f-452b-8c43-2efe169be732)
 
+<div align="center">
+
+<a href="https://t.me/AstraBlock_alerts">Telegram</a> | <a href="https://twitter.com/AstraAlpha_">Twitter</a> | <a href="https://linktr.ee/AstraBlock">Subscribe</a>
+
+</div>
 
 ## Overview
 
