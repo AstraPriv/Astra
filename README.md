@@ -5,7 +5,7 @@
 
 ## Overview
 
-Our comprehensive trading intelligence ecosystem is designed to provide Solana traders with competitive advantages in identifying early profitable trading opportunities across both on-chain and off-chain environments. Our specialized solutions focus on detecting confluence patterns and enabling efficient trading of high-volatility tokens.
+Our comprehensive trading ecosystem is designed to provide Solana traders with competitive advantages in identifying early profitable trading opportunities across both on-chain and off-chain environments. Our specialized solutions focus on detecting confluence patterns and enabling efficient trading of high-volatility tokens.
 
 ## Core Components
 
