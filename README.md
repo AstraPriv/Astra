@@ -1,4 +1,4 @@
-# Astra Alers
+# Astra Alerts
 
 ![image](https://github.com/user-attachments/assets/3513a214-5a7f-452b-8c43-2efe169be732)
 
